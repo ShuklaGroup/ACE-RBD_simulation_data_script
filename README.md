@@ -1,5 +1,9 @@
 # Engineered High-Affinity ACE2 Peptide Mitigates ARDS and Death Induced by Multiple SARS-CoV-2 Variants
 
+## Simulation data 
+- Parameter files and simulation data for wild type apo and holo simulaion can be downloaded from https://uofi.box.com/s/uthc2grqfnnlungdywneljesoopkiql9
+- Parameter files and simulation data for V2.4 mutant apo and holo simulaion can be downloaded from https://uofi.box.com/s/8ee1g90vexspqi67nminv1mcupidygqz
+
 ## V2.4_holo_MSM_obj.pkl
 This file can be downloaded from https://uofi.box.com/s/aycisqx1laqlra0yq9tkrzjv2e3e7g46. It contains optimal MSM object for ACE2 V2.4 mutant holo simulation.
 
